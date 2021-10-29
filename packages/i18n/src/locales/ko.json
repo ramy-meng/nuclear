@@ -25,7 +25,8 @@
     "plugins": "플러그인",
     "search": "검색 결과",
     "settings": "설정",
-    "visualizer": "비주얼라이저"
+    "visualizer": "비주얼라이저",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "총 재생 횟수",
@@ -78,7 +79,8 @@
     "header": "무료 음악 스트리밍을 위한 데스크탑 음악 재생 프로그램",
     "released": "AGPL-3.0 라이선스로 배포되었습니다.",
     "report": "버그 신고/새로운 기능 제안",
-    "thanks": "이 프로그램 개발에 중요한 역할을 해주신 Github 기여자분들께 감사를 전합니다."
+    "thanks": "이 프로그램 개발에 중요한 역할을 해주신 Github 기여자분들께 감사를 전합니다.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "취소"
@@ -195,7 +197,13 @@
     "queue-add": "재생 목록에 모든 음악 추가",
     "track": "음악",
     "track_plural": "트랙",
-    "you-can-search-for": "다음 항목을 검색할 수 있습니다:"
+    "you-can-search-for": "다음 항목을 검색할 수 있습니다:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "음악이 아님"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "전체 화면 모드를 종료하려면 Esc 키를 누르십시오."
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

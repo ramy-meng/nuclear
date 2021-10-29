@@ -25,7 +25,8 @@
     "plugins": "プラグイン",
     "search": "検索結果",
     "settings": "設定",
-    "visualizer": "ビジュアライザー"
+    "visualizer": "ビジュアライザー",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "再生回数",
@@ -78,7 +79,8 @@
     "header": "無料ソースから音楽再生するデスクトップ音楽プレイヤー",
     "released": "AGPL-3.0でリリースされました",
     "report": "問題や新機能の依頼を送信する",
-    "thanks": "Github の貢献者のおかげで、このプローグラムを作成できました。ご提供いただき、誠にありがとうございました。"
+    "thanks": "Github の貢献者のおかげで、このプローグラムを作成できました。ご提供いただき、誠にありがとうございました。",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "キャンセル"
@@ -195,7 +197,13 @@
     "queue-add": "すべての曲をキューに追加",
     "track": "曲",
     "track_plural": "曲",
-    "you-can-search-for": "以下を検索できます:"
+    "you-can-search-for": "以下を検索できます:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "ESCで全画面表示終了"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

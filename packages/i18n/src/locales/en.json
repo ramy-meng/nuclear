@@ -25,7 +25,8 @@
     "plugins": "Plugins",
     "search": "Search Results",
     "settings": "Settings",
-    "visualizer": "Visualizer"
+    "visualizer": "Visualizer",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "Play counts",
@@ -78,7 +79,8 @@
     "header": "Desktop music player for streaming from free sources",
     "released": "released under AGPL-3.0",
     "report": "Submit issues or new features",
-    "thanks": "Many thanks to our contributors on Github, your help was vital in creating this program."
+    "thanks": "Many thanks to our contributors on Github, your help was vital in creating this program.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "Cancel"
@@ -195,7 +197,13 @@
     "queue-add": "Add all tracks to queue",
     "track": "Track",
     "track_plural": "Tracks",
-    "you-can-search-for": "You can search for:"
+    "you-can-search-for": "You can search for:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -261,7 +269,8 @@
     "track-duration": "Display track duration over the seekbar",
     "user": "User:",
     "youtube": "Youtube",
-    "yt-api-key": "Youtube API Key"
+    "yt-api-key": "Youtube API Key",
+    "saving": "Saving in:::"
   },
   "tags": {
     "albums": "Top Albums",
@@ -295,5 +304,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "Press ESC to exit full screen"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

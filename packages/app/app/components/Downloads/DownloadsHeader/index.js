@@ -18,12 +18,12 @@ const DownloadsHeader = ({
   t
 }) => (
   <Segment className={styles.downloads_header}>
-    <span className={styles.label}>
-      Saving in:
+    <div className={styles.label}>
+      {t('saving')}
       <span className={styles.directory}>
         { _.isEmpty(directory) ? remote.app.getPath('downloads') : directory}
       </span>
-    </span>
+    </div>
     <Button
       icon
       inverted
@@ -47,6 +47,7 @@ DownloadsHeader.defaultProps = {
   setDirectory: () => { },
   setStringOption: () => { }
 };
+
 
 export default compose(
   withTranslation('settings'),

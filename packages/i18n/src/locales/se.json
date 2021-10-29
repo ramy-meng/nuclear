@@ -25,7 +25,8 @@
     "plugins": "Insticksmoduler",
     "search": "Sökresultat",
     "settings": "Inställningar",
-    "visualizer": "Visualiserare"
+    "visualizer": "Visualiserare",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "Antal spelningar",
@@ -78,7 +79,8 @@
     "header": "Musikspelare som streamar från avgiftsfria källor",
     "released": "släppt under AGPL-3.0",
     "report": "Skicka in problem eller nya funktioner",
-    "thanks": "Stort tack till alla som bidragit på GitHub, er hjälp har varit ovärderlig i skapandet av detta program."
+    "thanks": "Stort tack till alla som bidragit på GitHub, er hjälp har varit ovärderlig i skapandet av detta program.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "Avbryt"
@@ -195,7 +197,13 @@
     "queue-add": "Lägg till alla spår i kö",
     "track": "Spår",
     "track_plural": "Spår",
-    "you-can-search-for": "Du kan söka efter:"
+    "you-can-search-for": "Du kan söka efter:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Inte music"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "Tryck på Esc för att avsluta helskärmsläge"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

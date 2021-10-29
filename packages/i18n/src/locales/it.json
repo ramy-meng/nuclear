@@ -25,7 +25,8 @@
     "plugins": "Plugin",
     "search": "Risultati della Ricerca",
     "settings": "Impostazioni",
-    "visualizer": "Visualizzatore"
+    "visualizer": "Visualizzatore",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "Conteggio riproduzioni",
@@ -78,7 +79,8 @@
     "header": "Il lettore musicale desktop per riprodurre musica da fonti gratuite",
     "released": "rilasciato sotto AGPL-3.0",
     "report": "Invia problemi o nuove funzionalità",
-    "thanks": "Mille grazie ai nostri collaboratori su GitHub, il vostro aiuto è stato vitale nel creare questo programma."
+    "thanks": "Mille grazie ai nostri collaboratori su GitHub, il vostro aiuto è stato vitale nel creare questo programma.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "Annulla"
@@ -195,7 +197,13 @@
     "queue-add": "Aggiungi tutte le tracce alla coda",
     "track": "Traccia",
     "track_plural": "Tracce",
-    "you-can-search-for": "Puoi cercare:"
+    "you-can-search-for": "Puoi cercare:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Non musica"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "Premi ESC per uscire dallo schermo intero"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

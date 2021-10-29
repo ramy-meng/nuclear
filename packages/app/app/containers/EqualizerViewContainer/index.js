@@ -1,6 +1,7 @@
 import React, {useMemo} from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { bindActionCreators } from 'redux';
+import { useTranslation } from 'react-i18next';
 
 import * as EqualizerActions from '../../actions/equalizer';
 import Equalizer from '../../components/Equalizer';
@@ -17,6 +18,7 @@ const usePresets = () => {
 const denormalize = ({map, ids}) => ids.map(id => map[id]);
 
 const EqualizerViewContainer = () => {
+  const { t } = useTranslation('equalizer');
   const equalizer = useSelector(state => state.equalizer);
   const preset = equalizer.presets[equalizer.selected];
   const dispatch = useDispatch();
@@ -24,7 +26,7 @@ const EqualizerViewContainer = () => {
   const presets = usePresets();
   return (
     <div className={styles.equalizer_view}>
-      <h1>Equalizer</h1>
+      <h1>{t('equalizer')}</h1>
       <div className={styles.equalizer_components}>
         <Equalizer
           values={preset.values}

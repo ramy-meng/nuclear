@@ -25,7 +25,8 @@
     "plugins": "प्लगइन्स",
     "search": "खोज परिणाम",
     "settings": "सेटिंग्स",
-    "visualizer": "विजुआलाइज़र"
+    "visualizer": "विजुआलाइज़र",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "प्ले काउंट",
@@ -78,7 +79,8 @@
     "header": "मुफ्त स्रोतों से स्ट्रीमिंग के लिए डेस्कटॉप म्यूजिक प्लेयर",
     "released": "AGPL-3.0 के तहत जारी",
     "report": "समस्याएं या नई सुविधाएं सबमिट करें",
-    "thanks": "Github पर हमारे योगदानकर्ताओं को बहुत-बहुत धन्यवाद, इस कार्यक्रम को बनाने में आपकी मदद महत्वपूर्ण थी।"
+    "thanks": "Github पर हमारे योगदानकर्ताओं को बहुत-बहुत धन्यवाद, इस कार्यक्रम को बनाने में आपकी मदद महत्वपूर्ण थी।",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "रद्द करें"
@@ -195,7 +197,13 @@
     "queue-add": "सभी ट्रैक कतार में जोड़ें",
     "track": "ट्रैक",
     "track_plural": "ट्रैक",
-    "you-can-search-for": "आप खोज सकते हैं:"
+    "you-can-search-for": "आप खोज सकते हैं:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "गैर-संगीत"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "फुलस्क्रीन मोड से बाहर निकलने के लिए Esc दबाएं।"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

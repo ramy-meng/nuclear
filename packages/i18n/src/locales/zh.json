@@ -25,7 +25,8 @@
     "plugins": "插件",
     "search": "搜索结果",
     "settings": "设置",
-    "visualizer": "可视化"
+    "visualizer": "可视化",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "播放次数",
@@ -78,7 +79,8 @@
     "header": "从免费源进行流媒体播放的桌面级音乐播放器",
     "released": "基于 AGPL 3.0 协议发布",
     "report": "提交问题或新特性",
-    "thanks": "非常感谢我们在 GitHub 上的贡献者，你们的帮助对创建这个方案至关重要。"
+    "thanks": "非常感谢我们在 GitHub 上的贡献者，你们的帮助对创建这个方案至关重要。",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "取消"
@@ -195,7 +197,13 @@
     "queue-add": "将全部歌曲添加到播放列表",
     "track": "音乐标题",
     "track_plural": "曲目",
-    "you-can-search-for": "你可以搜索："
+    "you-can-search-for": "你可以搜索：",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "无音乐"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "按 ESC 键退出全屏"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

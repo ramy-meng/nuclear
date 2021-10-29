@@ -25,7 +25,8 @@
     "plugins": "Doplnky",
     "search": "Výsledky vyhľadávania",
     "settings": "Nastavenia",
-    "visualizer": "Visualizer"
+    "visualizer": "Visualizer",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "Počet prehratí",
@@ -195,7 +196,13 @@
     "queue-add": "Pridať všetky skladby do poradia",
     "track": "Track",
     "track_plural": "Tracks",
-    "you-can-search-for": "You can search for:"
+    "you-can-search-for": "You can search for:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -294,5 +301,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "Press ESC to exit full screen"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

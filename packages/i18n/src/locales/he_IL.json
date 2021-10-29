@@ -25,7 +25,8 @@
     "plugins": "תוספים",
     "search": "תוצאות החיפוש",
     "settings": "הגדרות",
-    "visualizer": "Visualizer"
+    "visualizer": "Visualizer",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "מספר השמעות",
@@ -78,7 +79,8 @@
     "header": "נגן מוזיקה עבור שולחן העבודה להזרמה ממקורות חופשיים",
     "released": "מופץ בכפוף לרישיון AGPL-3.0",
     "report": "דיווח על בעיות או בקשת תכונות חדשות",
-    "thanks": "המון תודות לתורמים שלנו ב־Github, העזרה שלכם הייתה הכרחית ביצירת התכנית הזאת."
+    "thanks": "המון תודות לתורמים שלנו ב־Github, העזרה שלכם הייתה הכרחית ביצירת התכנית הזאת.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "ביטול"
@@ -195,7 +197,13 @@
     "queue-add": "הוספת כל הרצועות לתור",
     "track": "רצועה",
     "track_plural": "רצועות",
-    "you-can-search-for": "אפשר לחפש אחר:"
+    "you-can-search-for": "אפשר לחפש אחר:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "לא מוזיקה"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "יש ללחוץ על ESC כדי לצאת ממסך מלא"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

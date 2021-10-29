@@ -25,7 +25,8 @@
     "plugins": "Zásuvné moduly",
     "search": "Výsledky vyhledávání",
     "settings": "Nastavení",
-    "visualizer": "Visualizer"
+    "visualizer": "Visualizer",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "Počet přehrání",
@@ -78,7 +79,8 @@
     "header": "Desktopový přehrávač hudby pro streamování z volně dostupných zdrojů",
     "released": "Vydán pod licencí AGPL-3.0",
     "report": "Submit issues or new features",
-    "thanks": "Mnoho díků našim přispěvatelům na Githubu, vaše pomoc byla při vytváření tohoto programu velmi důležitá."
+    "thanks": "Mnoho díků našim přispěvatelům na Githubu, vaše pomoc byla při vytváření tohoto programu velmi důležitá.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "Storno"
@@ -195,7 +197,13 @@
     "queue-add": "Přidat všechny skladby do fronty",
     "track": "Track",
     "track_plural": "Tracks",
-    "you-can-search-for": "You can search for:"
+    "you-can-search-for": "You can search for:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "Press ESC to exit full screen"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

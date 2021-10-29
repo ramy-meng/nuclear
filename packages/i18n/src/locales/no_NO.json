@@ -25,7 +25,8 @@
     "plugins": "Utvidelser",
     "search": "Resultat av søket",
     "settings": "Innstillinger",
-    "visualizer": "Visualiser"
+    "visualizer": "Visualiser",
+    "version": "Versionnnn 0.6.16"
   },
   "artist": {
     "count": "Spill teller",
@@ -78,7 +79,8 @@
     "header": "Skrivebord musikkspiller for å strømme fra gratis kilder",
     "released": "frigjort under AGPL-3,0",
     "report": "Send problemer eller nye funksjoner",
-    "thanks": "Mange takk til våre bidragsytere på Github, så var hjelpen viktig for å lage dette programmet."
+    "thanks": "Mange takk til våre bidragsytere på Github, så var hjelpen viktig for å lage dette programmet.",
+    "our top 10 contributors": "Our top 10 Contributorsss"
   },
   "input-dialog": {
     "cancel": "Avbryt"
@@ -195,7 +197,13 @@
     "queue-add": "Legg til alle spor i køen",
     "track": "Spor",
     "track_plural": "Spor",
-    "you-can-search-for": "Du kan søke etter:"
+    "you-can-search-for": "Du kan søke etter:",
+    "all": "Allll",
+    "artists": "Artistsss",
+    "albums": "Albumssss",
+    "tracks": "Trackssss",
+    "livestream": "Livestreammm",
+    "podcast": "Podcastttt"
   },
   "seekbar": {
     "segment-popup": "Ikke-musikk"
@@ -294,5 +302,18 @@
   },
   "visualizer": {
     "exit-fullscreen": "Trykk ESC for å avslutte fullskjerm"
+  },
+  "equalizer": {
+    "equalizer": "Equaliserrrrr",
+    "presets": "Presetssss",
+    "default": "Defaulttttt",
+    "classical": "Classicallllll",
+    "club": "Clubbbbbb",
+    "pop": "Poppppp",
+    "reggae": "Reggaeeee",
+    "rock": "Rockkkk",
+    "full bass": "Full bassssss",
+    "full treble": "Full trebleeee",
+    "custom": "custommmm"
   }
 }

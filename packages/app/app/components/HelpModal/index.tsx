@@ -14,7 +14,7 @@ import styles from './styles.scss';
 
 export type HelpModalProps = {
   githubContrib: ContributorState;
-  handleOpenExternalLink: (link:string) => void;
+  handleOpenExternalLink: (link: string) => void;
   handleMastodonClick: () => void;
   handleGithubClick: () => void;
   handleTwitterClick: () => void;
@@ -111,7 +111,7 @@ const HelpModal: React.FC<HelpModalProps> = ({
       <Modal.Content>
         <div className={styles.contributors}>
           <Header className={styles.contributors_header}>
-            Our top 10 Contributors
+            {t('our top 10 contributors')}
           </Header>
           <Contributors
             {...githubContrib}
