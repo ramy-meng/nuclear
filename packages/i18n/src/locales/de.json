@@ -25,8 +25,8 @@
     "plugins": "Plugins",
     "search": "Suchergebnisse",
     "settings": "Einstellungen",
-    "visualizer": "Visualisierung",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "Visualisierung"
   },
   "artist": {
     "count": "Anzahl der Wiedergabe",
@@ -57,6 +57,19 @@
     "name": "Name",
     "status": "Status, Stellenwert"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "Keine Lieblingsalben vorhanden",
     "empty-help": "Favorisierte Alben werden hier erscheinen!",
@@ -77,10 +90,10 @@
   "help": {
     "about": "Über Nuclear Music Player",
     "header": "Musikplayer gemacht für Computer, der aus kostenlosen Quellen streamt",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "freigegeben unter AGPL-3.0",
     "report": "Sende eine Fehlermeldung oder eine Idee für eine neue Funktion",
-    "thanks": "Vielen Dank an unsere Mitwirkenden bei Github. Ihre Hilfe war das Entscheidende für die Entwicklung dieses Programms.",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "Vielen Dank an unsere Mitwirkenden bei Github. Ihre Hilfe war das Entscheidende für die Entwicklung dieses Programms."
   },
   "input-dialog": {
     "cancel": "Abbrechen"
@@ -186,24 +199,21 @@
   "search": {
     "album": "Album",
     "album_plural": "Alben",
+    "all": "All",
     "artist": "Künstler",
     "artist_plural": "Künstler",
     "clear-history": "Verlauf löschen",
     "empty": "Nichts gefunden.",
     "last-searches": "Vorherige Suchanfragen",
+    "livestream": "Livestream",
     "placeholder": "Suchen...",
     "playlist": "Wiedergabeliste",
     "playlist_plural": "Wiedergabelisten",
+    "podcast": "Podcast",
     "queue-add": "Alle Lieder zur Warteschlange hinzufügen",
     "track": "Lied",
     "track_plural": "Lieder",
-    "you-can-search-for": "Du kannst suchen nach:",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "Du kannst suchen nach:"
   },
   "seekbar": {
     "segment-popup": "Musikvideoteile ohne Musik"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "Drücken Sie ESC, um den Vollbildmodus zu beenden"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

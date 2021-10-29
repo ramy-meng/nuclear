@@ -25,8 +25,8 @@
     "plugins": "Utvidelser",
     "search": "Resultat av søket",
     "settings": "Innstillinger",
-    "visualizer": "Visualiser",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "Visualiser"
   },
   "artist": {
     "count": "Spill teller",
@@ -57,6 +57,19 @@
     "name": "Navn",
     "status": "Status:"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "Ingen favoritt album",
     "empty-help": "Prøv å legge til noen album i favoritter og de vil vises her!",
@@ -77,10 +90,10 @@
   "help": {
     "about": "Om Nuclear Music Player",
     "header": "Skrivebord musikkspiller for å strømme fra gratis kilder",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "frigjort under AGPL-3,0",
     "report": "Send problemer eller nye funksjoner",
-    "thanks": "Mange takk til våre bidragsytere på Github, så var hjelpen viktig for å lage dette programmet.",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "Mange takk til våre bidragsytere på Github, så var hjelpen viktig for å lage dette programmet."
   },
   "input-dialog": {
     "cancel": "Avbryt"
@@ -186,24 +199,21 @@
   "search": {
     "album": "album",
     "album_plural": "Album",
+    "all": "All",
     "artist": "Kunstner",
     "artist_plural": "Artister",
     "clear-history": "Tøm logg",
     "empty": "Fant ingenting.",
     "last-searches": "Siste søk",
+    "livestream": "Livestream",
     "placeholder": "Søk...",
     "playlist": "Spilleliste",
     "playlist_plural": "Spillelister",
+    "podcast": "Podcast",
     "queue-add": "Legg til alle spor i køen",
     "track": "Spor",
     "track_plural": "Spor",
-    "you-can-search-for": "Du kan søke etter:",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "Du kan søke etter:"
   },
   "seekbar": {
     "segment-popup": "Ikke-musikk"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "Trykk ESC for å avslutte fullskjerm"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

@@ -25,8 +25,8 @@
     "plugins": "Plug-ins",
     "search": "Zoekresultaten",
     "settings": "Instellingen",
-    "visualizer": "Visualizer",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "Visualizer"
   },
   "artist": {
     "count": "Aantal keer beluisterd",
@@ -57,6 +57,19 @@
     "name": "Naam",
     "status": "Status"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "No favorite albums",
     "empty-help": "Try adding some albums to favorites and they will appear here!",
@@ -77,10 +90,10 @@
   "help": {
     "about": "Over Nuclear Music Player",
     "header": "Muziekspeler voor het streamen van vrije muziek",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "uitgebracht onder de AGPL-3.0-licentie",
     "report": "Submit issues or new features",
-    "thanks": "Hartelijk dank aan alle bijdragers op GitHub; zonder jullie was het niet gelukt.",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "Hartelijk dank aan alle bijdragers op GitHub; zonder jullie was het niet gelukt."
   },
   "input-dialog": {
     "cancel": "Annuleren"
@@ -186,24 +199,21 @@
   "search": {
     "album": "Album",
     "album_plural": "Albums",
+    "all": "All",
     "artist": "Artiest",
     "artist_plural": "Artiesten",
     "clear-history": "Clear history",
     "empty": "Niks gevonden.",
     "last-searches": "Last searches",
+    "livestream": "Livestream",
     "placeholder": "Zoeken...",
     "playlist": "Afspeellijst",
     "playlist_plural": "Afspeellijsten",
+    "podcast": "Podcast",
     "queue-add": "Alle nummers toevoegen aan wachtrij",
     "track": "Nummer",
     "track_plural": "Nummers",
-    "you-can-search-for": "You can search for:",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "You can search for:"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "Press ESC to exit full screen"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

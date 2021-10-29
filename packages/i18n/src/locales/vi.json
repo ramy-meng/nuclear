@@ -25,8 +25,8 @@
     "plugins": "Plugins",
     "search": "Kết quả tìm kím",
     "settings": "Cài đặt",
-    "visualizer": "Visualizer",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "Visualizer"
   },
   "artist": {
     "count": "Số lượt nghe",
@@ -57,6 +57,19 @@
     "name": "Tên",
     "status": "Trạng thái"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "Không có album ưa thích",
     "empty-help": "Album được đánh dấu ưa thích sẽ xuất hiện ở đây.",
@@ -77,10 +90,10 @@
   "help": {
     "about": "Giới thiệu về Nuclear Music Player",
     "header": "Trình phát nhạc miễn phí cho việc streaming trên máy tính.",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "Phát hành dựa trên tiêu chuẩn AGPL-3.0",
     "report": "Báo cáo lỗi hoặc cải tiến chức năng",
-    "thanks": "Cám ơn những đóng góp của các bạn trên nền tảng Github, sự giúp đỡ của bạn rất quan trọng trong việc tạo nên chương trình này.",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "Cám ơn những đóng góp của các bạn trên nền tảng Github, sự giúp đỡ của bạn rất quan trọng trong việc tạo nên chương trình này."
   },
   "input-dialog": {
     "cancel": "Huỷ"
@@ -186,24 +199,21 @@
   "search": {
     "album": "Album",
     "album_plural": "Albums",
+    "all": "All",
     "artist": "Nghệ sỹ",
     "artist_plural": "Artists",
     "clear-history": "Xoá lịch sử",
     "empty": "Không tìm thấy.",
     "last-searches": "Lần tìm kiếm cuối",
+    "livestream": "Livestream",
     "placeholder": "Tìm kiếm...",
     "playlist": "Playlist",
     "playlist_plural": "Playlists",
+    "podcast": "Podcast",
     "queue-add": "Thêm tất cả vào danh sách đang ",
     "track": "Bài hát",
     "track_plural": "Tracks",
-    "you-can-search-for": "Bạn có thể tìm cho:",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "Bạn có thể tìm cho:"
   },
   "seekbar": {
     "segment-popup": "Phần không phải bài hát "
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "Nhấn ESC để thoát khỏi chế độ toàn màn hình"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

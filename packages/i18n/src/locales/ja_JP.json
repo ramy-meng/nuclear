@@ -25,8 +25,8 @@
     "plugins": "プラグイン",
     "search": "検索結果",
     "settings": "設定",
-    "visualizer": "ビジュアライザー",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "ビジュアライザー"
   },
   "artist": {
     "count": "再生回数",
@@ -57,6 +57,19 @@
     "name": "名前",
     "status": "ステータス"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "お気に入りのアルバムがありません",
     "empty-help": "お気に入りにアルバムを追加すると、ここに表示されます！",
@@ -77,10 +90,10 @@
   "help": {
     "about": "Nuclear Music Playerについて",
     "header": "無料ソースから音楽再生するデスクトップ音楽プレイヤー",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "AGPL-3.0でリリースされました",
     "report": "問題や新機能の依頼を送信する",
-    "thanks": "Github の貢献者のおかげで、このプローグラムを作成できました。ご提供いただき、誠にありがとうございました。",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "Github の貢献者のおかげで、このプローグラムを作成できました。ご提供いただき、誠にありがとうございました。"
   },
   "input-dialog": {
     "cancel": "キャンセル"
@@ -186,24 +199,21 @@
   "search": {
     "album": "アルバム",
     "album_plural": "アルバム",
+    "all": "All",
     "artist": "アーティスト",
     "artist_plural": "アーティスト",
     "clear-history": "全履歴を削除",
     "empty": "何も見つかりませんでした",
     "last-searches": "最近検索",
+    "livestream": "Livestream",
     "placeholder": "検索...",
     "playlist": "プレイリスト",
     "playlist_plural": "プレイリスト",
+    "podcast": "Podcast",
     "queue-add": "すべての曲をキューに追加",
     "track": "曲",
     "track_plural": "曲",
-    "you-can-search-for": "以下を検索できます:",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "以下を検索できます:"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "ESCで全画面表示終了"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

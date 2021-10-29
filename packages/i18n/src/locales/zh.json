@@ -25,8 +25,8 @@
     "plugins": "插件",
     "search": "搜索结果",
     "settings": "设置",
-    "visualizer": "可视化",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "可视化"
   },
   "artist": {
     "count": "播放次数",
@@ -57,6 +57,19 @@
     "name": "名字",
     "status": "状态"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "没有收藏的专辑",
     "empty-help": "添加至收藏的专辑将显示在这里！",
@@ -77,10 +90,10 @@
   "help": {
     "about": "关于核音乐播放器",
     "header": "从免费源进行流媒体播放的桌面级音乐播放器",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "基于 AGPL 3.0 协议发布",
     "report": "提交问题或新特性",
-    "thanks": "非常感谢我们在 GitHub 上的贡献者，你们的帮助对创建这个方案至关重要。",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "非常感谢我们在 GitHub 上的贡献者，你们的帮助对创建这个方案至关重要。"
   },
   "input-dialog": {
     "cancel": "取消"
@@ -186,24 +199,21 @@
   "search": {
     "album": "专辑",
     "album_plural": "专辑",
+    "all": "All",
     "artist": "艺人",
     "artist_plural": "艺术家",
     "clear-history": "清除历史记录",
     "empty": "未找到任何内容。",
     "last-searches": "最近搜索记录",
+    "livestream": "Livestream",
     "placeholder": "搜索...",
     "playlist": "播放列表",
     "playlist_plural": "播放列表",
+    "podcast": "Podcast",
     "queue-add": "将全部歌曲添加到播放列表",
     "track": "音乐标题",
     "track_plural": "曲目",
-    "you-can-search-for": "你可以搜索：",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "你可以搜索："
   },
   "seekbar": {
     "segment-popup": "无音乐"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "按 ESC 键退出全屏"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

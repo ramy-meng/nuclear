@@ -25,8 +25,8 @@
     "plugins": "Mga Plugin",
     "search": "Resulta ng Paghahanap",
     "settings": "Settings",
-    "visualizer": "Visualizer",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "Visualizer"
   },
   "artist": {
     "count": "Bilang ng pagtugtog",
@@ -57,6 +57,19 @@
     "name": "Pangalan",
     "status": "Kalagayan"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "Walang paboritong album",
     "empty-help": "Subukan magdagdag ng mga paboritong album at makikita mo rito!",
@@ -77,10 +90,10 @@
   "help": {
     "about": "Tungkol sa Nuclear Music Player",
     "header": "Desktop music player para sa streaming mula sa libreng pinanggalingan",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "released under AGPL-3.0",
     "report": "Submit issues or new features",
-    "thanks": "Salamat sa mga nag-aambag sa Github. Ang iyong tulong ay mahalaga sa paggawa nitong programa.",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "Salamat sa mga nag-aambag sa Github. Ang iyong tulong ay mahalaga sa paggawa nitong programa."
   },
   "input-dialog": {
     "cancel": "Kanselahin"
@@ -186,24 +199,21 @@
   "search": {
     "album": "Album",
     "album_plural": "Albums",
+    "all": "All",
     "artist": "Artist",
     "artist_plural": "Artists",
     "clear-history": "Clear history",
     "empty": "Walang nahanap.",
     "last-searches": "Last searches",
+    "livestream": "Livestream",
     "placeholder": "Hinahanap...",
     "playlist": "Playlist",
     "playlist_plural": "Mga Playlist",
+    "podcast": "Podcast",
     "queue-add": "Idagdag lahat ng kanta sa pila",
     "track": "Track",
     "track_plural": "Tracks",
-    "you-can-search-for": "You can search for:",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "You can search for:"
   },
   "seekbar": {
     "segment-popup": "Non-music"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "Press ESC to exit full screen"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

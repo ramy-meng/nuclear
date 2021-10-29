@@ -25,8 +25,8 @@
     "plugins": "插件",
     "search": "搜尋",
     "settings": "設定",
-    "visualizer": "視覺化工具",
-    "version": "Versionnnn 0.6.16"
+    "version": "Version 0.6.16",
+    "visualizer": "視覺化工具"
   },
   "artist": {
     "count": "播放次數",
@@ -57,6 +57,19 @@
     "name": "名字",
     "status": "狀態"
   },
+  "equalizer": {
+    "classical": "Classical",
+    "club": "Club",
+    "custom": "Custom",
+    "default": "Default",
+    "equalizer": "Equaliser",
+    "full bass": "Full bass",
+    "full treble": "Full treble",
+    "presets": "Presets",
+    "pop": "Pop",
+    "reggae": "Reggae",
+    "rock": "Rock"
+  },
   "favorite-albums": {
     "empty": "最喜歡的專輯為空",
     "empty-help": "嘗試添加一些專輯到最喜歡的中，它們會在這裡出現",
@@ -77,10 +90,10 @@
   "help": {
     "about": "關於",
     "header": "免費的串流播放軟體",
+    "our top 10 contributors": "Our top 10 Contributors",
     "released": "遵循 AGPL-3.0 發行",
     "report": "提交issues或新的功能",
-    "thanks": "非常感謝 Github 上貢獻者的貢獻，您的貢獻對本程式的誕生至關重要。",
-    "our top 10 contributors": "Our top 10 Contributorsss"
+    "thanks": "非常感謝 Github 上貢獻者的貢獻，您的貢獻對本程式的誕生至關重要。"
   },
   "input-dialog": {
     "cancel": "取消"
@@ -186,24 +199,21 @@
   "search": {
     "album": "專輯",
     "album_plural": "專輯",
+    "all": "All",
     "artist": "演出者",
     "artist_plural": "藝術家",
     "clear-history": "清除歷史紀錄",
     "empty": "找不到資料",
     "last-searches": "上次搜尋",
+    "livestream": "Livestream",
     "placeholder": "搜尋...",
     "playlist": "播放清單",
     "playlist_plural": "播放列表",
+    "podcast": "Podcast",
     "queue-add": "將所有曲目新增到播放佇列",
     "track": "音樂標題",
     "track_plural": "音軌",
-    "you-can-search-for": "你可以搜索：",
-    "all": "Allll",
-    "artists": "Artistsss",
-    "albums": "Albumssss",
-    "tracks": "Trackssss",
-    "livestream": "Livestreammm",
-    "podcast": "Podcastttt"
+    "you-can-search-for": "你可以搜索："
   },
   "seekbar": {
     "segment-popup": "非音樂"
@@ -302,18 +312,5 @@
   },
   "visualizer": {
     "exit-fullscreen": "按ESC鍵退出全畫面"
-  },
-  "equalizer": {
-    "equalizer": "Equaliserrrrr",
-    "presets": "Presetssss",
-    "default": "Defaulttttt",
-    "classical": "Classicallllll",
-    "club": "Clubbbbbb",
-    "pop": "Poppppp",
-    "reggae": "Reggaeeee",
-    "rock": "Rockkkk",
-    "full bass": "Full bassssss",
-    "full treble": "Full trebleeee",
-    "custom": "custommmm"
   }
 }

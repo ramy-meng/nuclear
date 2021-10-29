@@ -107,7 +107,7 @@ class SearchResults extends React.Component {
         render: () => this.renderAllResultsPane()
       },
       {
-        menuItem: this.props.t('artists'),
+        menuItem: this.props.t('artist_plural'),
         render: () =>
           this.renderPane(
             this.props.artistSearchResults,
@@ -115,7 +115,7 @@ class SearchResults extends React.Component {
           )
       },
       {
-        menuItem: this.props.t('albums'),
+        menuItem: this.props.t('album_plural'),
         render: () =>
           this.renderPane(
             this.props.albumSearchResults,
@@ -123,11 +123,11 @@ class SearchResults extends React.Component {
           )
       },
       {
-        menuItem: this.props.t('tracks'),
+        menuItem: this.props.t('track_plural'),
         render: () => this.renderTrackListPane(this.props.trackSearchResults.info)
       },
       {
-        menuItem: this.props.t('playlist'),
+        menuItem: this.props.t('playlist_plural'),
         render: () => this.renderPlaylistPane()
       },
       {
