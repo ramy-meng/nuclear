@@ -22,6 +22,8 @@ const volumeSliderColors = {
   thumbColor: { r: 248, g: 248, b: 242, a: 1 }
 };
 
+const { t } = useTranslation('settings');
+
 export type SettingsProps = {
   actions: {
     setNumberOption: Function;
@@ -207,7 +209,7 @@ const Settings: React.FC<SettingsProps> = ({
   );
 
   const optionsGroups = _.groupBy(options, 'category');
-  const { t } = useTranslation('settings');
+  
 
   return (
     <div className={styles.settings_container}>
